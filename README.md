@@ -17,3 +17,7 @@
 
 ## [CIPHER (most known)](https://github.com/zImSkillz/fivem-known-backdoors/blob/main/cipher-backdoor.md)
 ## [KVacDoor](https://github.com/zImSkillz/fivem-known-backdoors/blob/main/kvac.cz-backdoor.md)
+
+---------
+# "Emulate" a FiveM HTTP Request:
+- `curl <URL> -A "FXServer/PerformHttpRequest"`
