@@ -32,7 +32,7 @@ Cipher keeps using different new URLs to keep them undetected or not immediately
 
   ## Step - 2 - Obfuscated Backdoor
   The backdoor itself is encrypted/obfuscated, so I will only be able to show the encrypted/obfuscated code:
-  [Click here to get to the file](https://github.com/zImSkillz/fivem-known-backdoors/blob/main/cipher-backdoor-locked-lua)
+  [Click here to get to the file](https://raw.githubusercontent.com/zImSkillz/fivem-known-backdoors/refs/heads/main/cipher-backdoor-locked-lua)
 </details>
 
 <details>
@@ -52,7 +52,7 @@ Cipher keeps using different new URLs to keep them undetected or not immediately
   
   ## Step - 2 - Obfuscated Backdoor
   The backdoor itself is encrypted/obfuscated, so I will only be able to show the encrypted/obfuscated code:
-  [Click here to get to the file](https://github.com/zImSkillz/fivem-known-backdoors/blob/main/cipher-backdoor-locked-js)
+  [Click here to get to the file](https://raw.githubusercontent.com/zImSkillz/fivem-known-backdoors/refs/heads/main/cipher-backdoor-locked-js)
 </details>
 
 ## Step - 3 - Injecting to other resources
